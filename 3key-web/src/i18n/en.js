@@ -10,6 +10,8 @@ export default {
         helpTips4:'4.Combination key:Define a key on a 3-key keyboard as a combination of 2-5 keys, such as one-key Ctrl+c, one-key Win+l, one-key Ctrl+Alt+Delete, etc.',
         helpTips5:'5.String:Define a button of the 3-key keyboard as an input string, such as one-key input user name, one-key input select * from, etc.',
         helpTips6:'6.Mouse:Define a button of the 3-key keyboard as mouse button click, mouse movement, scroll wheel, etc.',
+        helpTips7:'7.If it is not recognized by the computer, spray down the jack pins with alcohol and brush them, dry them and try again.',
+        helpTips8:'8.Using the domestic green shaft, shaft and keycaps can be hot-swapped, do not like can change out by yourself!',
         helpButton:'Help',
         connButtonText1:'Connect 3 Key keyboard',
         keyAllLabel:'When the 3 keys are pressed at the same time, they act as an independent keys',
