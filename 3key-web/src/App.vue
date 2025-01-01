@@ -71,7 +71,7 @@
         {{ $t('index.openSource') }}
       </el-row>
       <el-row>
-        <a href="https://github.com/yuan910715" target="_blank">https://github.com/yuan910715</a>
+        <a href="https://github.com/Hikari31768/3keys" target="_blank">https://github.com/Hikari31768/3keys</a>
       </el-row>
       <el-row>
         <a href="https://topyuan.top">{{ $t('index.backToIndex') }}</a>
