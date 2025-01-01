@@ -23,6 +23,8 @@
           <el-row>{{ $t('index.helpTips4') }}</el-row>
           <el-row>{{ $t('index.helpTips5') }}</el-row>
           <el-row>{{ $t('index.helpTips6') }}</el-row>
+	  <el-row>{{ $t('index.helpTips7') }}</el-row>
+	  <el-row>{{ $t('index.helpTips8') }}</el-row>
         </div>
         <el-button slot="reference" type="info" icon="el-icon-chat-dot-round">{{ $t('index.helpButton') }}</el-button>
       </el-popover>
